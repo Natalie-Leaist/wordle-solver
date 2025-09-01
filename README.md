@@ -29,6 +29,11 @@ wordle_bot.py: defines the WordleBot class
 word_list.py: defines the WordList class
 - loads words from a file and stores them as a list
 
+### Credits
+- Word list (`words.txt`) adapted from several commonly available Wordle word lists published online
+- Inspired by the original Wordle game created by Josh Wardle
+
+
 
 
 
